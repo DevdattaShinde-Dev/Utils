@@ -17,7 +17,7 @@ allprojects {
 ## Step 2. Add the dependency
 ```
 dependencies {
-    implementation 'com.github.DevdattaShinde-Dev:Utils:version'
+    implementation 'com.github.devdattashinde-dev:Utils:version'
 }
 ```
 
